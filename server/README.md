@@ -1,0 +1,1 @@
+This is a practice project that implements simple logic and stores in the database some items based on some logic and primitive data. Rather simple and basic.
